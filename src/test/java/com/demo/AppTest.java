@@ -13,7 +13,7 @@ public class AppTest {
 	}
 	@Test
 	public void test1() {
-		assertEquals(app.process("hi"), "hi");
+		assertEquals(app.process("hi"), "HI");
 	}
 
 }
